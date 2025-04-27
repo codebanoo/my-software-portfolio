@@ -75,16 +75,6 @@ Each project is built with a clean, modular structure using technologies like **
 
 ---
 
-## 📈 Ecosystem Architecture
-
-```mermaid
-graph LR
-  AdminPanel[Admin Panel] --> Market
-  Invest --> Market
-  Botray --> AdminPanel
-  Botray --> Market
-  ZipHub --> Botray
-
 ## 🛠️ Technologies Used
 
 - C# / ASP.NET MVC
