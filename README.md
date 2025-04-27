@@ -6,6 +6,16 @@
   A complete suite of real estate platforms, automation bots, and utility tools.
 </p>
 
+<p align="center">
+  <a href="https://dotnet.microsoft.com/"><img src="https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET MVC Badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C# Badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/WinForms-0078D7?style=for-the-badge&logo=windows&logoColor=white" alt="WinForms Badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server Badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge" alt="License Badge"/></a>
+</p>
+
+
+
 ---
 
 ## 📦 About the Ecosystem
@@ -47,7 +57,7 @@ Each project is built with a clean, modular structure using technologies like **
 
 ## 🤖 Automation & Utility Tools
 
-### 🔹 [`botary-suite`](https://github.com/codebanoo/botray.git)
+### 🔹 [`botray`](https://github.com/codebanoo/botray.git)
 > WinForms bots integrated with Google Sheets, Telegram, and SQL Server.
 
 - Automated data fetching and synchronization
@@ -64,6 +74,16 @@ Each project is built with a clean, modular structure using technologies like **
 - Built using .NET Framework’s `System.IO.Compression`
 
 ---
+
+## 📈 Ecosystem Architecture
+
+```mermaid
+graph LR
+  AdminPanel[Admin Panel] --> Market
+  Invest --> Market
+  Botray --> AdminPanel
+  Botray --> Market
+  ZipHub --> Botray
 
 ## 🛠️ Technologies Used
 
@@ -91,7 +111,7 @@ Feel free to explore each repository for technical insights, or reach out to me 
 | [`brikta-admin-panel`](https://github.com/codebanoo/brikta-admin-panel.git) | Admin panel for full platform control |
 | [`brikta-invest`](https://github.com/codebanoo/brikta-invest.git) | Investor dashboard and portfolio tracking |
 | [`brikta-market`](https://github.com/codebanoo/brikta-market.git) | Public real estate marketplace |
-| [`botary-suite`](https://github.com/codebanoo/botray.git) | Automation bots for Sheets and Telegram |
+| [`botray`](https://github.com/codebanoo/botray.git) | Automation bots for Sheets and Telegram |
 | [`ziphub`](https://github.com/codebanoo/ziphub.git) | WinForms-based file compression tool |
 
 ---
