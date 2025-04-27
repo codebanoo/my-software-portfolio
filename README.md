@@ -80,7 +80,7 @@ Each project is built with a clean, modular structure using technologies like **
 ## 💼 About the Developer
 
 Hi! I'm a full-stack .NET developer passionate about building scalable real-world applications.  
-Feel free to explore each repository for technical insights, or reach out to me on [LinkedIn](www.linkedin.com/in/saba-mirrezaei-896410324).
+Feel free to explore each repository for technical insights, or reach out to me on [LinkedIn](https://www.linkedin.com/in/saba-mirrezaei-896410324).
 
 ---
 
@@ -88,7 +88,7 @@ Feel free to explore each repository for technical insights, or reach out to me 
 
 | Project | Description |
 |:--------|:------------|
-| [`brikta-admin-panel`](https://github.com/codebanoo/brikta-admin-panel.gitl) | Admin panel for full platform control |
+| [`brikta-admin-panel`](https://github.com/codebanoo/brikta-admin-panel.git) | Admin panel for full platform control |
 | [`brikta-invest`](https://github.com/codebanoo/brikta-invest.git) | Investor dashboard and portfolio tracking |
 | [`brikta-market`](https://github.com/codebanoo/brikta-market.git) | Public real estate marketplace |
 | [`botary-suite`](https://github.com/codebanoo/botray.git) | Automation bots for Sheets and Telegram |
