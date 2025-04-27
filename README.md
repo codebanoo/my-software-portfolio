@@ -10,66 +10,67 @@
 
 ## 📦 About the Ecosystem
 
-The **Brikta Ecosystem** is a full-stack collection of five connected projects designed to modernize real estate workflows, investment tracking, property listings, and automation.
+The **Brikta Ecosystem** is a full-stack portfolio of five interconnected projects designed to modernize real estate workflows, investment tracking, property listings, and automation processes.
 
-Each project is built with a clean, modular structure using technologies like **C#**, **ASP.NET**, **JavaScript**, and **WinForms**.
+Each project is built with a clean, modular structure using technologies like **C#**, **ASP.NET MVC**, **JavaScript**, **WinForms**, and **SQL Server**.
 
 ---
 
 ## 🧱 Core Projects
 
-### 🔹 [`brikta-admin`](https://github.com/yourusername/brikta-admin)
-> Admin dashboard for managing users, listings, and investment data.
+### 🔹 [`brikta-admin-panel`](https://github.com/codebanoo/brikta-admin-panel.git)
+> Centralized admin dashboard for managing users, listings, and platform operations.
 
-- Full CRUD for all platform data  
-- User & content moderation  
+- Full CRUD for all platform data
+- User and content moderation
 - Built with ASP.NET MVC, jQuery, Bootstrap, and TailwindCSS
 
 ---
 
-### 🔹 [`brikta-invest`](https://github.com/yourusername/brikta-invest)
-> Investor panel to monitor property projects and analyze returns.
+### 🔹 [`brikta-invest`](https://github.com/codebanoo/brikta-invest.git)
+> Investor portal to monitor project progress and portfolio performance.
 
-- Track owned properties and investment progress  
-- Compare with live market data  
-- Clean and responsive UI built in ASP.NET and C#
-
----
-
-### 🔹 [`brikta-market`](https://github.com/yourusername/brikta-market)
-> Real estate marketplace for listing and browsing properties.
-
-- Post properties for sale, rent, or exchange  
-- Interactive filtering and map view (coming soon)  
-- Fully manageable from the Admin Panel
+- Track owned properties and investment stages
+- Compare returns with real-time market data
+- Responsive and intuitive UI in ASP.NET
 
 ---
 
-## 🤖 Automation & Utilities
+### 🔹 [`brikta-market`](https://github.com/codebanoo/brikta-market.git)
+> Real estate marketplace for property listings, rentals, and exchanges.
 
-### 🔹 [`botary-suite`](https://github.com/yourusername/botary-suite)
-> C# bots connected to Google Sheets, Telegram & SQL Server.
-
-- Automated data insertion and sync  
-- Telegram alerts for updates  
-- WinForms-based configuration tool
+- Create, post, and manage property ads
+- Advanced search and filtering system
+- Admin moderation integration
 
 ---
 
-### 🔹 [`zip-file-utility`](https://github.com/yourusername/zip-file-utility)
-> Simple desktop app to zip and organize files.
+## 🤖 Automation & Utility Tools
 
-- Drag-and-drop support  
-- Built with WinForms and `System.IO.Compression`
+### 🔹 [`botary-suite`](https://github.com/codebanoo/botray.git)
+> WinForms bots integrated with Google Sheets, Telegram, and SQL Server.
+
+- Automated data fetching and synchronization
+- Telegram-based alerts and commands
+- WinForms UI for manual triggers and monitoring
 
 ---
 
-## 🧰 Technologies Used
+### 🔹 [`ziphub`](https://github.com/codebanoo/ziphub.git)
+> Simple WinForms-based tool for zipping and organizing files.
+
+- Drag-and-drop interface
+- Batch compression support
+- Built using .NET Framework’s `System.IO.Compression`
+
+---
+
+## 🛠️ Technologies Used
 
 - C# / ASP.NET MVC
 - SQL Server
 - JavaScript / jQuery
-- Bootstrap & TailwindCSS
+- Bootstrap / TailwindCSS
 - Google Sheets API
 - Telegram Bot API
 - WinForms (.NET Framework)
@@ -78,21 +79,21 @@ Each project is built with a clean, modular structure using technologies like **
 
 ## 💼 About the Developer
 
-Hi! I'm a full-stack .NET developer with a focus on real-world problem solving and scalable architecture.  
-Feel free to explore each repo for more technical details or reach out on [LinkedIn](https://linkedin.com/in/yourprofile).
+Hi! I'm a full-stack .NET developer passionate about building scalable real-world applications.  
+Feel free to explore each repository for technical insights, or reach out to me on [LinkedIn](www.linkedin.com/in/saba-mirrezaei-896410324).
 
 ---
 
-## 📂 Repositories
+## 📂 Project Repositories
 
-| Name | Description |
-|------|-------------|
-| [`brikta-admin`](https://github.com/yourusername/brikta-admin) | Admin panel for full platform control |
-| [`brikta-invest`](https://github.com/yourusername/brikta-invest) | Investor dashboard & property tracker |
-| [`brikta-market`](https://github.com/yourusername/brikta-market) | Public-facing real estate marketplace |
-| [`botary-suite`](https://github.com/yourusername/botary-suite) | Google Sheets + Telegram automation bots |
-| [`zip-file-utility`](https://github.com/yourusername/zip-file-utility) | WinForms tool to zip/manage files |
+| Project | Description |
+|:--------|:------------|
+| [`brikta-admin-panel`](https://github.com/codebanoo/brikta-admin-panel.gitl) | Admin panel for full platform control |
+| [`brikta-invest`](https://github.com/codebanoo/brikta-invest.git) | Investor dashboard and portfolio tracking |
+| [`brikta-market`](https://github.com/codebanoo/brikta-market.git) | Public real estate marketplace |
+| [`botary-suite`](https://github.com/codebanoo/botray.git) | Automation bots for Sheets and Telegram |
+| [`ziphub`](https://github.com/codebanoo/ziphub.git) | WinForms-based file compression tool |
 
 ---
 
-> Made with 💙 by [Your Name]
+> Made with 💙 by Codebanoo | Saba Mirrezaei
